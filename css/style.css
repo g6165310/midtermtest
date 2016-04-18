@@ -133,6 +133,9 @@ a{
 	line-height: 40px;
 	
 }
+.side_context a:hover{
+	color: #A8D5E1;
+}
 .main{
 	background: white;
 	padding-top: 20px;
@@ -172,6 +175,12 @@ a{
 	float: left;
 	line-height: 25px;
 }
+.events a {
+	display: block;
+}
+.event a:hover{
+	color: grey;
+}
 .Services_list{
 	background: white;
 	padding-top: 20px;
@@ -191,6 +200,12 @@ a{
 	line-height: 20px;
 	margin-bottom: 10px;
 }
+.Services_list a{
+	color: black;
+}
+.Services_list a:hover{
+	color: #A8D5E1;
+	}
 .find_us{
 	background: white;
 	padding-top: 30px;
@@ -216,6 +231,9 @@ a{
 	text-align: center;
 	line-height: 40px;
 	margin-top: 30px;
+}
+.find_us a:hover{
+	color: red;
 }
 .footer p{
 	text-align: center;
